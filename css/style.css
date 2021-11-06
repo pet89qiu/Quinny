@@ -1,0 +1,137 @@
+/*all pages*/
+body {
+    font: 25px Montserrat, sans-serif;
+    margin: auto;
+    line-height: 1.8;
+    background-color: aliceblue;
+  }
+  p{
+    font-size: 20px;
+  }
+
+ /*navigation bars section*/
+ .navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 10;
+  margin-bottom: 10;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+
+/*footer section*/
+footer{
+  text-align: center;
+  background-color: #fff5da;
+  font-size: medium;
+  font-weight: bold;
+  color: #191a19;
+
+}
+.container-fluid {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+/*index html*/
+ .bg-1 { 
+  text-align: center;
+  background-color: #f7dad9; 
+  color: #191a19;
+  }
+ .bg-1 >h1{
+    font-weight: bold;
+    font-size: 35px;
+  }
+ .myImage{
+    border-radius: 60%;
+    display: inline;
+  } 
+  .bg-1 >p{
+    font-size: large;
+    text-align: left;
+  }  
+  .bg-2 { 
+    text-align: center;
+    background-color: #e8f6ef;
+  }
+  
+
+  /*resume html*/
+  .content-1 { 
+    text-align: center;
+    background-color: #d4ecdd; /* White */
+    font-size: medium;
+  }
+  .content-1 >h1{
+    font-weight: bold;
+    font-size: 35px;
+  }
+  .col-sm-4 >h2{
+    font-size: 30px;
+    text-align: left;
+  }
+  .col-sm-4 >ul{
+    text-align: left;
+  }
+  .col-sm-4 >p{
+    text-align: left;
+  }
+  .content-2 { 
+    text-align: center;
+    background-color: #c6b4ce;
+  }
+  .img{
+    width: 20%;
+    float: left;
+  }
+
+  /*COURSES HTML*/
+  .w3-container >h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+  }
+  #levels{
+    text-align:left;
+    font-size: 20px;
+    margin-left: 30px;
+  }
+  .search{
+    text-align:left;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+ .dropdown{
+   margin-left: 30px;
+   font-size: 20px;
+ }
+ .w3-main{
+   margin-left: 150px;
+  
+ }
+ .course-img{
+   width: 10%;
+   
+ }
+ .w3-container >h2{
+   font-weight: bold;
+ }
+ .w3-container >p{
+   text-align: left;
+
+ }
+ .w3-row-padding1{
+   background-color:#dbf6e9;
+ }
+ .w3-row-padding2{
+   background-color: #eff7e1;
+ }
+
+  
+
+  
+  
